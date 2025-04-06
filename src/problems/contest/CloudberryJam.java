@@ -1,3 +1,5 @@
+package problems.contest;
+
 import java.util.Scanner;
 
 public class CloudberryJam {
